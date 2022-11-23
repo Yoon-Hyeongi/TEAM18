@@ -33,7 +33,6 @@
 		6FC40A41292DB86D0013D881 /* HyeongguView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HyeongguView.swift; sourceTree = "<group>"; };
 		6FC40A43292DB8760013D881 /* KwanghyunView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KwanghyunView.swift; sourceTree = "<group>"; };
 		6FC40A45292DB90A0013D881 /* WebService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebService.swift; sourceTree = "<group>"; };
-		6FC40A47292DC4FF0013D881 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,7 +65,6 @@
 		6FC40A28292DB38B0013D881 /* TEAM18 */ = {
 			isa = PBXGroup;
 			children = (
-				6FC40A47292DC4FF0013D881 /* Info.plist */,
 				6FC40A29292DB38B0013D881 /* TEAM18App.swift */,
 				6FC40A45292DB90A0013D881 /* WebService.swift */,
 				6FC40A3C292DB83E0013D881 /* Views */,

@@ -16,10 +16,6 @@ class WebService {
         let (data, _) = try await URLSession.shared.data(from: url)
         let prices = try JSONDecoder().decode(PriceDataForm.self, from: data)
         
-        for i in prices.DATA {
-            print("\(i.n_title)")
-        }
-        
         return prices.DATA
     }
 
